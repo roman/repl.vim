@@ -49,6 +49,7 @@ will be available soon.
 
 This plugin depends on quickrun, vimshell and their dependencies.
 
-## Author
+## Authors
 
 Tatsuhiro Ujihisa
+Roman Gonzalez
